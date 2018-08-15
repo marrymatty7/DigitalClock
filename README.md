@@ -1,2 +1,2 @@
 # DigitalClock
-Created with JavaScript
+
